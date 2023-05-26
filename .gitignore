@@ -30,3 +30,4 @@ build/
 
 ### VS Code ###
 .vscode/
+/spring-mail-demo/src/main/resources/config/mail.properties
