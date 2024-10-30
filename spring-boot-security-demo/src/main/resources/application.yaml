@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: spring-boot-security-demo
+logging:
+  level:
+    org:
+      springframework:
+        security: trace
